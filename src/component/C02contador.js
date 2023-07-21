@@ -8,8 +8,8 @@ const C02contador = () => {
   return (
     <div>
       <Fragment >
-        <h3>Mi primer componete{numero}</h3>
-        <button onClick={aumentar}>Click aqui para aumentar...</button>
+        <h3>Mi primer componete {numero}</h3>
+        <button onClick={aumentar}>Click aqui para aumentar ...</button>
       </Fragment>
     </div>
   )
